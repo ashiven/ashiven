@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+
+![Metrics](./github-metrics.svg)
+
+</div>
+
+
 
 <!--
 **Ashiven/Ashiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
